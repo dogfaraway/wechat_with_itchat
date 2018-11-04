@@ -61,8 +61,3 @@ def group_text_reply(msg):
 
 itchat.auto_login(hotReload=True)
 itchat.run()
-
-# 作者：mocokoo
-# 链接：https://www.jianshu.com/p/62fe9dbe64c6
-# 來源：简书
-# 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
